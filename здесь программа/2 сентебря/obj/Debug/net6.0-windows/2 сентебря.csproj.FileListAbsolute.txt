@@ -1,0 +1,110 @@
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.exe
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.deps.json
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.runtimeconfig.json
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.dll
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.pdb
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.AssemblyReference.cache
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.Form1.resources
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.MainForm.resources
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.Properties.Resources.resources
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.GenerateResource.cache
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.AssemblyInfoInputs.cache
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.AssemblyInfo.cs
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.CoreCompileInputs.cache
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.dll
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\refint\2 сентебря.dll
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.pdb
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.genruntimeconfig.cache
+C:\Users\it-student.MEPHI3.001\source\repos\2 сентебря\2 сентебря\obj\Debug\net6.0-windows\ref\2 сентебря.dll
+E:\4 крус говна\здесь программа второгог сентября\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.dll
+E:\4 крус говна\здесь программа второгог сентября\2 сентебря\obj\Debug\net6.0-windows\refint\2 сентебря.dll
+E:\4 крус говна\здесь программа второгог сентября\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.pdb
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.exe
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.deps.json
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.runtimeconfig.json
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.dll
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.pdb
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.AssemblyReference.cache
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.admin.resources
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.Entry_window.resources
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.MainForm.resources
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.Properties.Resources.resources
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.GenerateResource.cache
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.AssemblyInfoInputs.cache
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.AssemblyInfo.cs
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.CoreCompileInputs.cache
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.CopyComplete
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.dll
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\refint\2 сентебря.dll
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.pdb
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.genruntimeconfig.cache
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\ref\2 сентебря.dll
+E:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.Cart.resources
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.exe
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.deps.json
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.runtimeconfig.json
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.dll
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.pdb
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.AssemblyReference.cache
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.admin.resources
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.Entry_window.resources
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.Cart.resources
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.form_for_admin.resources
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.MainForm.resources
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.product_add.resources
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.Properties.Resources.resources
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.GenerateResource.cache
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.GeneratedMSBuildEditorConfig.editorconfig
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.AssemblyInfoInputs.cache
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.AssemblyInfo.cs
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.CoreCompileInputs.cache
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.CopyComplete
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.dll
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\refint\2 сентебря.dll
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.pdb
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.genruntimeconfig.cache
+F:\4 крус\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\ref\2 сентебря.dll
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.exe
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.deps.json
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.runtimeconfig.json
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.dll
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\2 сентебря.pdb
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.AssemblyReference.cache
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.admin.resources
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.Entry_window.resources
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.Cart.resources
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.form_for_admin.resources
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.MainForm.resources
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.product_add.resources
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\_2_сентебря.Properties.Resources.resources
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.GenerateResource.cache
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.GeneratedMSBuildEditorConfig.editorconfig
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.AssemblyInfoInputs.cache
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.AssemblyInfo.cs
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.CoreCompileInputs.cache
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.csproj.CopyComplete
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.dll
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\refint\2 сентебря.dll
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.pdb
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\2 сентебря.genruntimeconfig.cache
+F:\4 курс\Вариант 4\здесь программа\2 сентебря\obj\Debug\net6.0-windows\ref\2 сентебря.dll
